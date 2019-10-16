@@ -1,0 +1,7 @@
+/home/jimmyhalimi/Desktop/Desktop/read_frame/build/CMakeFiles/install/strip.dir
+/home/jimmyhalimi/Desktop/Desktop/read_frame/build/CMakeFiles/install/local.dir
+/home/jimmyhalimi/Desktop/Desktop/read_frame/build/CMakeFiles/edit_cache.dir
+/home/jimmyhalimi/Desktop/Desktop/read_frame/build/CMakeFiles/rebuild_cache.dir
+/home/jimmyhalimi/Desktop/Desktop/read_frame/build/CMakeFiles/install.dir
+/home/jimmyhalimi/Desktop/Desktop/read_frame/build/CMakeFiles/readFrame.dir
+/home/jimmyhalimi/Desktop/Desktop/read_frame/build/CMakeFiles/list_install_components.dir
